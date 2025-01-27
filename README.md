@@ -20,10 +20,20 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+1. Spotify
+- Personalized playlists based on listening habits
+- Seamless audio transition between devices
+2. Notion
+- Seamless sync across all devices with real-time collaboration
+- Highly customizable workspace with blocks, databases, and templates
+3. GoodNotes
+- Handwriting-to-text conversion for digital note-taking.
+- Organization of notes into folders and notebooks.
+- Compatibility with Apple Pencil for a natural writing experience.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app. (N/A)
 
 ## License
 
